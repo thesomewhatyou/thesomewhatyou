@@ -1,7 +1,7 @@
 <img width="600" height="200" alt="Untitled design" src="https://github.com/user-attachments/assets/e8dd0964-c780-4bd0-b39b-861c95bba4f3"/>
+
+
 # 👋 Hi, I'm thesomewhatyou!
-
-
 
 Welcome to my GitHub profile!  
 I'm passionate about open source, automation, and building tools that make a difference.  
