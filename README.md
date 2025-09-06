@@ -6,6 +6,7 @@
 Welcome to my GitHub profile!  
 I'm passionate about open source, automation, and building tools that make a difference.  
 Here you'll find a showcase of my favorite projects, experiments, and contributions.
+I am a student, by the way.
 
 ---
 
@@ -21,6 +22,7 @@ Here you'll find a showcase of my favorite projects, experiments, and contributi
   Streamlining installing for Player2 on a Linux distro.
 
 - **[OptimiHost](https://github.com/OptimiHost/OptimiHost)**
+
   Hey, I work here!  
 
 ---
